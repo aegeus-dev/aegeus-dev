@@ -1,0 +1,3 @@
+- 👋 Hi, we are @aegeus-dev The development team at Aegeus Technologies Pvt Ltd.
+- 👀 We are interested in clean energy solutions and robotics.
+- 📫 To join me checkout our website https://aegeustechnologies.com/ and email us at info@aegeus.in.
